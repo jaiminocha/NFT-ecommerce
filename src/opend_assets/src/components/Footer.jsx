@@ -19,7 +19,7 @@ function Footer() {
               </p>
             </Col>
             <Col>
-              <p>Copyright ⓒ {year}</p>
+              <p>Created by Jai Minocha | Copyright ⓒ {year}</p>
             </Col>
           </Row>
         </Container>
